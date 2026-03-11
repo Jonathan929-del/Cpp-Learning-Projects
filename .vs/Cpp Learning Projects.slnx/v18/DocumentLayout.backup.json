@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JONATHAN\\source\\repos\\Cpp Learning Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4649F8DF-835A-4185-A1B5-8D5033432796}|Cpp Learning Projects\\Cpp Learning Projects.vcxproj|C:\\Users\\JONATHAN\\source\\repos\\Cpp Learning Projects\\Cpp Learning Projects\\Cpp Learning Projects.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4649F8DF-835A-4185-A1B5-8D5033432796}|Cpp Learning Projects\\Cpp Learning Projects.vcxproj|solutionrelative:Cpp Learning Projects\\Cpp Learning Projects.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5532141A-5706-4C2C-A295-887AA7672284}|Cherno Course\\Cherno Course.vcxproj|C:\\Users\\JONATHAN\\source\\repos\\Cpp Learning Projects\\Cherno Course\\Cherno Course.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5532141A-5706-4C2C-A295-887AA7672284}|Cherno Course\\Cherno Course.vcxproj|solutionrelative:Cherno Course\\Cherno Course.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A944C0B-CE16-4994-9E6D-FACB2AFEC96D}|Dynamic Array\\Dynamic Array.vcxproj|C:\\Users\\JONATHAN\\source\\repos\\Cpp Learning Projects\\Dynamic Array\\Dynamic Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A944C0B-CE16-4994-9E6D-FACB2AFEC96D}|Dynamic Array\\Dynamic Array.vcxproj|solutionrelative:Dynamic Array\\Dynamic Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cherno Course.cpp",
+              "DocumentMoniker": "C:\\Users\\JONATHAN\\source\\repos\\Cpp Learning Projects\\Cherno Course\\Cherno Course.cpp",
+              "RelativeDocumentMoniker": "Cherno Course\\Cherno Course.cpp",
+              "ToolTip": "C:\\Users\\JONATHAN\\source\\repos\\Cpp Learning Projects\\Cherno Course\\Cherno Course.cpp",
+              "RelativeToolTip": "Cherno Course\\Cherno Course.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-11T03:17:53.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dynamic Array.cpp",
+              "DocumentMoniker": "C:\\Users\\JONATHAN\\source\\repos\\Cpp Learning Projects\\Dynamic Array\\Dynamic Array.cpp",
+              "RelativeDocumentMoniker": "Dynamic Array\\Dynamic Array.cpp",
+              "ToolTip": "C:\\Users\\JONATHAN\\source\\repos\\Cpp Learning Projects\\Dynamic Array\\Dynamic Array.cpp",
+              "RelativeToolTip": "Dynamic Array\\Dynamic Array.cpp",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAqwG4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-11T03:17:26.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cpp Learning Projects.cpp",
+              "DocumentMoniker": "C:\\Users\\JONATHAN\\source\\repos\\Cpp Learning Projects\\Cpp Learning Projects\\Cpp Learning Projects.cpp",
+              "RelativeDocumentMoniker": "Cpp Learning Projects\\Cpp Learning Projects.cpp",
+              "ToolTip": "C:\\Users\\JONATHAN\\source\\repos\\Cpp Learning Projects\\Cpp Learning Projects\\Cpp Learning Projects.cpp",
+              "RelativeToolTip": "Cpp Learning Projects\\Cpp Learning Projects.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-11T03:17:01.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

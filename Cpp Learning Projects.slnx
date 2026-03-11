@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Cherno Course/Cherno Course.vcxproj" />
+  <Project Path="Cpp Learning Projects/Cpp Learning Projects.vcxproj" />
+  <Project Path="Dynamic Array/Dynamic Array.vcxproj" />
+</Solution>
