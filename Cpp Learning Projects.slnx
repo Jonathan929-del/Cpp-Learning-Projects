@@ -1,9 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="Cherno Course/Cherno Course.vcxproj" Id="5532141a-5706-4c2c-a295-887aa7672284" />
-  <Project Path="Cpp Learning Projects/Cpp Learning Projects.vcxproj" Id="4649f8df-835a-4185-a1b5-8d5033432796" />
-  <Project Path="Dynamic Array/Dynamic Array.vcxproj" Id="9a944c0b-ce16-4994-9e6d-facb2afec96d" />
-</Solution>
